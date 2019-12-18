@@ -1,0 +1,67 @@
+@media screen and (max-width: 769px) {
+	ul.mainnav { display: none; }
+	.logo { margin-bottom: 12px; }
+	.header { padding-top: 12px; }
+	.page { padding-top: 62px; }
+	
+	h1 { font-size: 180%; }
+	h2 { font-size: 150%; }
+	
+	.box-title {
+		font-size: 170%;
+		font-weight: 100;
+		text-align: center;
+		font-family: 'Titillium Web', sans-serif;
+		margin-bottom: 14px;
+		text-shadow: 0 1px 0 rgba(100,100,100,0.25);
+	}
+	
+	h1.overlay {
+		text-align: center;
+	}
+	
+	.fullscreen-image {
+		display: none;
+	}
+	
+	#unternehmenserfolg {
+		margin: 0;
+	}
+	
+	#dasinternet {
+		margin: 0;
+	}
+	
+	.adresse {
+		text-align: center;
+	}
+	
+	#kontakt {
+		text-align: center;
+	}
+	
+	.social_icons {
+		text-align: center;
+	}
+	
+	#anmelden {
+		text-align: center;
+	}
+	
+	#impressum {
+		text-align: center;
+	}
+	
+	#anmeldung {
+		text-align: center;
+		margin-top: 0.5em;
+	}
+	
+	#anmeldung2 {
+		margin-left: 1.75em;
+	}
+	
+	#trafficnight {
+		display: inline;
+	}
+}
